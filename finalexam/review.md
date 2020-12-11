@@ -15,11 +15,11 @@
   도메인에 기본적으로 만들어져 있는 환경에서는 mySQL을 바로 사용할 수 있었고 공공데이터를 가져오기 때문에 큰 데이터를 빠르고 효과적으로 처리할 수 있는 장점이 적합하다고 생각해 mySQL로 데이터베이스를 구축했다.       
   Filezilla로 보여질 웹페이지 파일을 송신했다.   
 
-# 페이지
-+ 링크
-  http://dbpt08.dothome.co.kr/         
-        
-https://youtu.be/iHo5BDcg_w8  (만일을 대비한 시연 영상)
+# 최종 결과물
++ 페이지 링크       
+  http://dbpt08.dothome.co.kr/           
+           
+ (만일을 대비한 시연 영상)https://youtu.be/iHo5BDcg_w8 
 
 # 페이지 소개
 
